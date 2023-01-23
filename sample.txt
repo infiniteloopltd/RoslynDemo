@@ -1,0 +1,2 @@
+﻿var wc = new WebClient();
+return wc.DownloadString("http://www.icanhazip.com");
